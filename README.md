@@ -14,6 +14,13 @@
 ```
 ![Tip2](https://user-images.githubusercontent.com/89680122/161890654-1251b775-df1f-4753-ade0-268fe3c9e7cc.gif)
 
+**2. Jump to Method**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired method and you jump directly to it.
+ ```sh
+(Control + 6) ************************* (⌃ + 6)
+```
+![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
+
 
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
