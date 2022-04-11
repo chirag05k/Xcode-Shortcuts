@@ -10,24 +10,30 @@
 **2. Quick Open**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - This shortcut will bring up the Open Quickly text box. You can use the text box to search by filename, method name, class name, etc. Just hit ↩ on the desired result to open its respective file on the currently active editor.
  ```sh
-(shift + command + o) ************************* (⇧ + ⌘ + o)
+(shift + cmd + o) ************************* (⇧ + ⌘ + o)
 ```
 ![Tip2](https://user-images.githubusercontent.com/89680122/161890654-1251b775-df1f-4753-ade0-268fe3c9e7cc.gif)
 
-**2. Jump to Method**<br>
+**3. Jump to Method**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired method and you jump directly to it.
  ```sh
 (Control + 6) ************************* (⌃ + 6)
 ```
 ![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
 
-**2. Re-Indent Code**<br>
+**4. Re-Indent Code**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  The simple way to format your code. For the single line OR Multiple lines.
  ```sh
 (Control + I) ************************* (⌃ + I)
 ```
 ![Tip4](https://user-images.githubusercontent.com/89680122/162372321-ea2d7512-ff75-4d47-88d2-dd4470309d02.gif)
 
+**5. Add and Remove Breakpoints**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Add and Remove breakpoints.
+ ```sh
+(cmd + \) ************************* (⌘ + \)
+```
+![Tip5](https://user-images.githubusercontent.com/89680122/162667430-83d1c371-2701-4070-a76a-fbc495215af7.gif)
 
 
 
