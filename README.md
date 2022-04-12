@@ -35,6 +35,13 @@
 ```
 ![Tip5](https://user-images.githubusercontent.com/89680122/162667430-83d1c371-2701-4070-a76a-fbc495215af7.gif)
 
+**6. Jump to a Line**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Jumps to a code line.
+ ```sh
+(cmd + L) ************************* (⌘ + L)
+```
+![Tip6](https://user-images.githubusercontent.com/89680122/162879805-25eaed32-9f94-4cfd-8b1d-04946b7037b0.gif)
+
 
 
 ## Feedback
