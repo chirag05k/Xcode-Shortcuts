@@ -42,6 +42,13 @@
 ```
 ![Tip6](https://user-images.githubusercontent.com/89680122/162879805-25eaed32-9f94-4cfd-8b1d-04946b7037b0.gif)
 
+**7. Show Library**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When used in the source editor, this shortcut will show a library of code **Snippets** (First you have to create snippets then it will bring up), image assets, and color assets. On the other hand, when used in the storyboard, it will show a library of **UI objects**, image assets, and color assets.
+ ```sh
+(shift + cmd + L) ************************* (⇧ + ⌘ + L)
+```
+![Tip7](https://user-images.githubusercontent.com/89680122/163097896-89b6e2ca-2980-46f6-9d85-7d061ff59040.gif)
+![Tip7i](https://user-images.githubusercontent.com/89680122/163097915-271a5464-aefa-4438-af24-4ed66e2f20f3.gif)
 
 
 ## Feedback
