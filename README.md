@@ -47,8 +47,15 @@
  ```sh
 (shift + cmd + L) ************************* (⇧ + ⌘ + L)
 ```
-![Tip7](https://user-images.githubusercontent.com/89680122/163097896-89b6e2ca-2980-46f6-9d85-7d061ff59040.gif)
-![Tip7i](https://user-images.githubusercontent.com/89680122/163097915-271a5464-aefa-4438-af24-4ed66e2f20f3.gif)
+![Tip7](https://user-images.githubusercontent.com/89680122/163097896-89b6e2ca-2980-46f6-9d85-7d061ff59040.gif) ![Tip7i](https://user-images.githubusercontent.com/89680122/163097915-271a5464-aefa-4438-af24-4ed66e2f20f3.gif)
+
+**8. Jump to defination**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To directly jump to a definition, you can combine
+ ```sh
+(ctrl + cmd + click) ************************* (^ + ⌘ + Click)
+```
+
+![Tip8](https://user-images.githubusercontent.com/89680122/163389949-e08a78a9-adf1-4cf8-ad9f-a70c3b5b9685.gif)
 
 
 ## Feedback
