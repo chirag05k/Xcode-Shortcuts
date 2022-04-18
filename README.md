@@ -14,12 +14,12 @@
 ```
 ![Tip2](https://user-images.githubusercontent.com/89680122/161890654-1251b775-df1f-4753-ade0-268fe3c9e7cc.gif)
 
-**3. Jump to Method**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired method and you jump directly to it.
+**3. Refactor All In Scope**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Refactoring is inevitable. That makes editing variables and methods in the scope a crucial tool. The following shortcut lets us edit all in scope together at the same time.
  ```sh
-(Control + 6) ************************* (⌃ + 6)
+(ctrl + cmd + E) ************************* (⌃ + ⌘ + E)
 ```
-![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
+![Tip9](https://user-images.githubusercontent.com/89680122/163752577-260b5f88-fb93-410e-b1b8-634342c7dbc7.gif)
 
 **4. Re-Indent Code**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  The simple way to format your code. For the single line OR Multiple lines.
@@ -56,6 +56,14 @@
 ```
 
 ![Tip8](https://user-images.githubusercontent.com/89680122/163389949-e08a78a9-adf1-4cf8-ad9f-a70c3b5b9685.gif)
+
+
+**9. Jump to Method**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired method and you jump directly to it.
+ ```sh
+(Control + 6) ************************* (⌃ + 6)
+```
+![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
 
 
 ## Feedback
