@@ -63,7 +63,16 @@
  ```sh
 (Control + 6) ************************* (⌃ + 6)
 ```
+
 ![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
+
+**10. Create new tab**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It will create a new tab, simply work with the multiple tabs.
+ ```sh
+(cmd + T) ************************* (⌘ + T)
+```
+
+![Tip10](https://user-images.githubusercontent.com/89680122/163916782-61ffc0fa-b2a7-40e0-b7bb-d8def7d9db40.gif)
 
 
 ## Feedback
