@@ -75,6 +75,14 @@
 ![Tip10](https://user-images.githubusercontent.com/89680122/163916782-61ffc0fa-b2a7-40e0-b7bb-d8def7d9db40.gif)
 
 
+**11. Commit Changes**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we are working with Git, bitbucket, or any source control tool we can directly commit over changes using.
+ ```sh
+(option + cmd + C) ************************* (⌥ + ⌘ + C)
+```
+![Tip11](https://user-images.githubusercontent.com/89680122/164149125-dad3acb9-f013-452e-9e53-44c87900f381.gif)
+
+
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
 
