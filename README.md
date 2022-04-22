@@ -90,6 +90,14 @@
 ![Tip11](https://user-images.githubusercontent.com/89680122/164149125-dad3acb9-f013-452e-9e53-44c87900f381.gif)
 
 
+**13. Reveal in Projet Navigator**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reveal file in projet navigator using.
+ ```sh
+(Shift + Cmd + J) ************************* (⇧ + ⌘ + J)
+```
+![Tip13](https://user-images.githubusercontent.com/89680122/164623828-404e50fd-495b-488f-9571-e1c2fb74323b.gif)
+
+
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
 
