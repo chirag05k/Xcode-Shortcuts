@@ -97,6 +97,20 @@
 ```
 ![Tip13](https://user-images.githubusercontent.com/89680122/164623828-404e50fd-495b-488f-9571-e1c2fb74323b.gif)
 
+**14. Open Preferences**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Open your Xcode preferences to easily access your apple account, set up your Xcode preference, access the derived data path, and many more using.
+ ```sh
+(Cmd + Comma(,)) ************************* (⌘ + ,)
+```
+![Tip14](https://user-images.githubusercontent.com/89680122/164884177-a0dd672e-1bec-4ef0-92c6-713fd39e728b.gif)
+
+**15. Create a new group**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Select your folder then use the shortcut to create a group. At a time a single group will be created.
+ ```sh
+(Ctl + Option + Cmd + N) ************************* (⌃ + ⌥ + ⌘ + N)
+```
+![Tip15](https://user-images.githubusercontent.com/89680122/164884466-e0c709dd-7e14-41e8-a6cf-58aa54905187.gif)
+
 
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
