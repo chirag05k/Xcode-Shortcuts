@@ -66,7 +66,15 @@
 
 ![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
 
-**10. Create new tab**<br>
+**10. Search Documentation**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Put a cursor on text or select the text then jump to the apple documentation using.
+ ```sh
+(Ctrl + Option + Cmd + /) ************************* (⌃ + ⌥ + ⌘ + /)
+```
+![Tip17](https://user-images.githubusercontent.com/89680122/165222657-29b0b869-84bb-4f24-bfc4-502d2e8add67.gif)
+
+
+**11. Create new tab**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It will create a new tab, simply work with the multiple tabs.
  ```sh
 (Cmd + T) ************************* (⌘ + T)
@@ -74,7 +82,7 @@
 
 ![Tip10](https://user-images.githubusercontent.com/89680122/163916782-61ffc0fa-b2a7-40e0-b7bb-d8def7d9db40.gif)
 
-**11. Switching Tabs**<br>
+**12. Switching Tabs**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tab is one of the most commonly used features in Xcode. Using this shortcut allows you to switch tabs from left to right.
  ```sh
 (Ctl + Tab) ************************* (＾ + ⇥)
@@ -82,7 +90,7 @@
 ![Tip16](https://user-images.githubusercontent.com/89680122/165041768-67c91c9e-2fcd-41f3-8121-88f906e3d76c.gif)
 
 
-**12. Close Tab**<br>
+**13. Close Tab**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - While working with the multiple tabs you can use this shortcut to close your current tab.
  ```sh
 (Shift + Cmd + W) ************************* (⇧ + ⌘ + W)
@@ -90,7 +98,7 @@
 ![Tip12](https://user-images.githubusercontent.com/89680122/164371429-953985b1-5127-420b-9ad3-678c8567a304.gif)
 
 
-**13. Commit Changes**<br>
+**14. Commit Changes**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we are working with Git, bitbucket, or any source control tool we can directly commit over changes using.
  ```sh
 (Option + Cmd + C) ************************* (⌥ + ⌘ + C)
@@ -98,21 +106,21 @@
 ![Tip11](https://user-images.githubusercontent.com/89680122/164149125-dad3acb9-f013-452e-9e53-44c87900f381.gif)
 
 
-**14. Reveal in Projet Navigator**<br>
+**15. Reveal in Projet Navigator**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reveal file in projet navigator using.
  ```sh
 (Shift + Cmd + J) ************************* (⇧ + ⌘ + J)
 ```
 ![Tip13](https://user-images.githubusercontent.com/89680122/164623828-404e50fd-495b-488f-9571-e1c2fb74323b.gif)
 
-**15. Open Preferences**<br>
+**16. Open Preferences**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Open your Xcode preferences to easily access your apple account, set up your Xcode preference, access the derived data path, and many more using.
  ```sh
 (Cmd + Comma(,)) ************************* (⌘ + ,)
 ```
 ![Tip14](https://user-images.githubusercontent.com/89680122/164884177-a0dd672e-1bec-4ef0-92c6-713fd39e728b.gif)
 
-**16. Create a new group**<br>
+**17. Create a new group**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Select your folder then use the shortcut to create a group. At a time a single group will be created.
  ```sh
 (Ctl + Option + Cmd + N) ************************* (⌃ + ⌥ + ⌘ + N)
