@@ -63,7 +63,7 @@
  ```sh
 (Shift + Cmd + L) ************************* (⇧ + ⌘ + L)
 ```
-![Tip7](https://user-images.githubusercontent.com/89680122/163097896-89b6e2ca-2980-46f6-9d85-7d061ff59040.gif) ![Tip7i](https://user-images.githubusercontent.com/89680122/163097915-271a5464-aefa-4438-af24-4ed66e2f20f3.gif)
+![Tip7](https://user-images.githubusercontent.com/89680122/163097896-89b6e2ca-2980-46f6-9d85-7d061ff59040.gif)![Tip7i](https://user-images.githubusercontent.com/89680122/163097915-271a5464-aefa-4438-af24-4ed66e2f20f3.gif)
 
 **10. Jump to defination**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To directly jump to a definition, you can combine
