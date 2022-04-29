@@ -137,7 +137,16 @@
 ```
 ![Tip14](https://user-images.githubusercontent.com/89680122/164884177-a0dd672e-1bec-4ef0-92c6-713fd39e728b.gif)
 
-**19. Create a new group**<br>
+
+**19. Split curent file**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you want to split your current file within the same tab you can do using.
+ ```sh
+(Option + Cmd + ,) ************************* (⌥ + ⌘ + ,)
+```
+![Tip20](https://user-images.githubusercontent.com/89680122/165891511-282c0cd0-a790-4a54-9fd0-348e01213cb9.gif)
+
+
+**20. Create a new group**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Select your folder then use the shortcut to create a group. At a time a single group will be created.
  ```sh
 (Ctl + Option + Cmd + N) ************************* (⌃ + ⌥ + ⌘ + N)
