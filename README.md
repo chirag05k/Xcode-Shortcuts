@@ -15,6 +15,14 @@
 ![Tip2](https://user-images.githubusercontent.com/89680122/161890654-1251b775-df1f-4753-ade0-268fe3c9e7cc.gif)
 
 
+**2. Opening a file manually in the assistant editor**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - First search for your file using (Shift + Cmd + o) and In order to open a destination file in the secondary editor with the same Assistance editor you can do it using.
+ ```sh
+(Option + Enter) ************************* (⌥ + ↵)
+```
+![Tip22](https://user-images.githubusercontent.com/89680122/166406093-b65eed35-0ca1-4016-9c4b-d3a9a7dca721.gif)
+
+
 **3. Fix next issue**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Sometimes hard to manually find the issue in the Xcode. We can simply jump to the actual error and once we jump to the error again use this command to show the error in detail.
  ```sh
