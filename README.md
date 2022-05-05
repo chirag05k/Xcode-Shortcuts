@@ -17,7 +17,7 @@
 **3. Opening a file manually in the assistant editor**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - First search for your file using (Shift + Cmd + o) and In order to open a destination file in the secondary editor with the same Assistance editor you can do it using.
  ```sh
-(Option + Enter) ************************* (⌥ + ↵)
+(Option + Enter) ************************* (⌥ + ↩)
 ```
 ![Tip22](https://user-images.githubusercontent.com/89680122/166406093-b65eed35-0ca1-4016-9c4b-d3a9a7dca721.gif)
 
@@ -55,7 +55,7 @@
 **8. Open dependency in the assistant editor**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you are working with Xib or storyboard you will require to open the view controller, In order to open a destination file in the Secondary editor with the same Assistant editor, you can use.
  ```sh
-(Ctl + Option + Cmd + Enter) ************************* (⌃ + ⌥ + ⌘ + ↵)
+(Ctl + Option + Cmd + Enter) ************************* (⌃ + ⌥ + ⌘ + ↩)
 ```
 ![Tip21](https://user-images.githubusercontent.com/89680122/166185352-1faaf199-e68b-4754-8651-3d21b67222a8.gif)
 
@@ -140,8 +140,14 @@
 ```
 ![Tip12](https://user-images.githubusercontent.com/89680122/164371429-953985b1-5127-420b-9ad3-678c8567a304.gif)
 
+**19. Show hide code review**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Sometimes you might need to have a quick look on the changes you have made on your code. Use this shortcut to quickly switch to code review mode and have an overview on what you have changed, once done, just hit the shortcut again to switch back to you normal source editor mode.
+ ```sh
+(Shift + Option + Cmd + Enter) ************************* (⇧ + ⌥ + ⌘ + ↩)
+```
+![Tip24](https://user-images.githubusercontent.com/89680122/166873213-873a5172-eec3-4a5e-81c1-9b7d7122878e.gif)
 
-**19. Commit Changes**<br>
+**20. Commit Changes**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we are working with Git, bitbucket, or any source control tool we can directly commit over changes using.
  ```sh
 (Option + Cmd + C) ************************* (⌥ + ⌘ + C)
@@ -149,14 +155,14 @@
 ![Tip11](https://user-images.githubusercontent.com/89680122/164149125-dad3acb9-f013-452e-9e53-44c87900f381.gif)
 
 
-**20. Reveal in Projet Navigator**<br>
+**21. Reveal in Projet Navigator**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reveal file in projet navigator using.
  ```sh
 (Shift + Cmd + J) ************************* (⇧ + ⌘ + J)
 ```
 ![Tip13](https://user-images.githubusercontent.com/89680122/164623828-404e50fd-495b-488f-9571-e1c2fb74323b.gif)
 
-**21. Open Preferences**<br>
+**22. Open Preferences**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Open your Xcode preferences to easily access your apple account, set up your Xcode preference, access the derived data path, and many more using.
  ```sh
 (Cmd + Comma(,)) ************************* (⌘ + ,)
@@ -164,7 +170,7 @@
 ![Tip14](https://user-images.githubusercontent.com/89680122/164884177-a0dd672e-1bec-4ef0-92c6-713fd39e728b.gif)
 
 
-**22. Split curent file**<br>
+**23. Split curent file**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you want to split your current file within the same tab you can do using.
  ```sh
 (Option + Cmd + ,) ************************* (⌥ + ⌘ + ,)
@@ -172,7 +178,7 @@
 ![Tip20](https://user-images.githubusercontent.com/89680122/165891511-282c0cd0-a790-4a54-9fd0-348e01213cb9.gif)
 
 
-**23. Create a new group**<br>
+**24. Create a new group**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Select your folder then use the shortcut to create a group. At a time a single group will be created.
  ```sh
 (Ctl + Option + Cmd + N) ************************* (⌃ + ⌥ + ⌘ + N)
