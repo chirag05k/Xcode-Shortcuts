@@ -185,6 +185,13 @@
 ```
 ![Tip15](https://user-images.githubusercontent.com/89680122/164884466-e0c709dd-7e14-41e8-a6cf-58aa54905187.gif)
 
+**25. Left panel (navigator) tab switch**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the diffrent navigator from Project navigator to Report navigator using.
+ ```sh
+(Cmd + (1-9)) ************************* (⌘ + (1-9))
+```
+![Tip25](https://user-images.githubusercontent.com/89680122/167106717-9edf2c71-084d-47af-b080-563a84b90e8a.gif)
+
 
 
 ## Feedback
