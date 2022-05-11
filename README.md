@@ -192,6 +192,14 @@
 ```
 ![Tip25](https://user-images.githubusercontent.com/89680122/167106717-9edf2c71-084d-47af-b080-563a84b90e8a.gif)
 
+**26. Search for lines of text in your files (project)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using
+ ```sh
+(Cmd + Shift + F) ************************* (⌘ + ⇧ + F)
+```
+![Tip26](https://user-images.githubusercontent.com/89680122/167771493-bd74e649-b8c2-4135-9e89-8bf479fad0ba.gif)
+
+
 
 
 ## Feedback
