@@ -186,20 +186,26 @@
 ![Tip15](https://user-images.githubusercontent.com/89680122/164884466-e0c709dd-7e14-41e8-a6cf-58aa54905187.gif)
 
 **25. Left panel (navigator) tab switch**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the diffrent navigator from Project navigator to Report navigator using.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigator from Project navigators to Report navigator using.
  ```sh
 (Cmd + (1-9)) ************************* (⌘ + (1-9))
 ```
 ![Tip25](https://user-images.githubusercontent.com/89680122/167106717-9edf2c71-084d-47af-b080-563a84b90e8a.gif)
 
-**26. Search for lines of text in your files (project)**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using
+**26. Right panel (navigator) tab switch**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigators from File inspector to Connection inspector using.
+ ```sh
+(Option + Cmd + (1-7)) ************************* (⌥ + ⌘ + (1-7))
+```
+![Tip27](https://user-images.githubusercontent.com/89680122/167995710-23409660-5a60-4d63-99db-e806ce9c1ce5.gif)
+
+
+**27. Search for lines of text in your files (project)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using.
  ```sh
 (Cmd + Shift + F) ************************* (⌘ + ⇧ + F)
 ```
 ![Tip26](https://user-images.githubusercontent.com/89680122/167771493-bd74e649-b8c2-4135-9e89-8bf479fad0ba.gif)
-
-
 
 
 ## Feedback
