@@ -200,7 +200,15 @@
 ![Tip27](https://user-images.githubusercontent.com/89680122/167995710-23409660-5a60-4d63-99db-e806ce9c1ce5.gif)
 
 
-**27. Search for lines of text in your files (project)**<br>
+**27. Hide left panel (navigator)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hide the navigator using.
+ ```sh
+(Cmd + 0) ************************* (⌘ + 0)
+```
+![Tip28](https://user-images.githubusercontent.com/89680122/168214940-7cb36c41-986a-4495-9f4a-e5e4aeda98c1.gif)
+
+
+**28. Search for lines of text in your files (project)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using.
  ```sh
 (Cmd + Shift + F) ************************* (⌘ + ⇧ + F)
