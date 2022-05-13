@@ -3,7 +3,7 @@
 **1. Add Documentation To Your Code**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Put cursor on name or method and press
  ```sh
-(Cmd+ Option + /) ************************* (⌘ + ⌥ + /)
+(Cmd + Option + /) ************************* (⌘ + ⌥ + /)
 ```
 ![Tip1](https://user-images.githubusercontent.com/89680122/161692534-7b60460d-e8c5-445b-b195-09111920f848.gif)
 
