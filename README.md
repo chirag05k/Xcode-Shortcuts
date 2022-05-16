@@ -192,15 +192,8 @@
 ```
 ![Tip25](https://user-images.githubusercontent.com/89680122/167106717-9edf2c71-084d-47af-b080-563a84b90e8a.gif)
 
-**26. Right panel (navigator) tab switch**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigators from File inspector to Connection inspector using.
- ```sh
-(Option + Cmd + (1-7)) ************************* (⌥ + ⌘ + (1-7))
-```
-![Tip27](https://user-images.githubusercontent.com/89680122/167995710-23409660-5a60-4d63-99db-e806ce9c1ce5.gif)
 
-
-**27. Hide left panel (navigator)**<br>
+**26. Hide left panel (navigator)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hide the navigator using.
  ```sh
 (Cmd + 0) ************************* (⌘ + 0)
@@ -208,7 +201,24 @@
 ![Tip28](https://user-images.githubusercontent.com/89680122/168214940-7cb36c41-986a-4495-9f4a-e5e4aeda98c1.gif)
 
 
-**28. Search for lines of text in your files (project)**<br>
+**27. Right panel (inspector) tab switch**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigators from File inspector to Connection inspector using.
+ ```sh
+(Option + Cmd + (1-7)) ************************* (⌥ + ⌘ + (1-7))
+```
+![Tip27](https://user-images.githubusercontent.com/89680122/167995710-23409660-5a60-4d63-99db-e806ce9c1ce5.gif)
+
+
+**28. Hide right panel (inspector)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hide the inspector using.
+ ```sh
+(Option + Cmd + 0) ************************* (⌥ + ⌘ + 0)
+```
+![Tip29](https://user-images.githubusercontent.com/89680122/168518687-0ce8d0c8-16ca-4268-9305-fb213f86b1d6.gif)
+
+
+
+**29. Search for lines of text in your files (project)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using.
  ```sh
 (Cmd + Shift + F) ************************* (⌘ + ⇧ + F)
