@@ -225,6 +225,14 @@
 ```
 ![Tip26](https://user-images.githubusercontent.com/89680122/167771493-bd74e649-b8c2-4135-9e89-8bf479fad0ba.gif)
 
+**30. Open schema selection**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you are required to switch between the schema (Control + 0) open the scheme chooser. Select the scheme you want to run with the arrow keys and simply hit the return key to choose the schema.
+ ```sh
+(Ctl + 0) ************************* (⌃ + 0)
+```
+![Tip30](https://user-images.githubusercontent.com/89680122/168756708-7a924e47-1845-4265-bf1e-66b471e55be1.gif)
+
+
 
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
