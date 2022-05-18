@@ -100,16 +100,25 @@
 
 ![Tip8](https://user-images.githubusercontent.com/89680122/163389949-e08a78a9-adf1-4cf8-ad9f-a70c3b5b9685.gif)
 
+**14. Jump to file**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired file and you jump directly to it.
+ ```sh
+(Ctrl + 5) ************************* (⌃ + 5)
+```
+![Tip31](https://user-images.githubusercontent.com/89680122/169027158-5bc530c1-dd64-4077-bb94-e146abcb6a74.gif)
 
-**14. Jump to Method**<br>
+
+
+**15. Jump to Method**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  It opens a jump bar from where you can search the desired method and you jump directly to it.
  ```sh
 (Ctrl + 6) ************************* (⌃ + 6)
 ```
 
+
 ![Tip3](https://user-images.githubusercontent.com/89680122/162122914-cf0118c9-ff32-4b86-ad70-18e0d0f26d97.gif)
 
-**15. Search Documentation**<br>
+**16. Search Documentation**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Put a cursor on text or select the text then jump to the apple documentation using.
  ```sh
 (Ctrl + Option + Cmd + /) ************************* (⌃ + ⌥ + ⌘ + /)
@@ -117,7 +126,7 @@
 ![Tip17](https://user-images.githubusercontent.com/89680122/165222657-29b0b869-84bb-4f24-bfc4-502d2e8add67.gif)
 
 
-**16. Create new tab**<br>
+**17. Create new tab**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It will create a new tab, simply work with the multiple tabs.
  ```sh
 (Cmd + T) ************************* (⌘ + T)
@@ -125,7 +134,7 @@
 
 ![Tip10](https://user-images.githubusercontent.com/89680122/163916782-61ffc0fa-b2a7-40e0-b7bb-d8def7d9db40.gif)
 
-**17. Switching Tabs**<br>
+**18. Switching Tabs**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tab is one of the most commonly used features in Xcode. Using this shortcut allows you to switch tabs from left to right.
  ```sh
 (Ctl + Tab) ************************* (＾ + ⇥)
@@ -133,21 +142,21 @@
 ![Tip16](https://user-images.githubusercontent.com/89680122/165041768-67c91c9e-2fcd-41f3-8121-88f906e3d76c.gif)
 
 
-**18. Close Tab**<br>
+**19. Close Tab**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - While working with the multiple tabs you can use this shortcut to close your current tab.
  ```sh
 (Shift + Cmd + W) ************************* (⇧ + ⌘ + W)
 ```
 ![Tip12](https://user-images.githubusercontent.com/89680122/164371429-953985b1-5127-420b-9ad3-678c8567a304.gif)
 
-**19. Show hide code review**<br>
+**20. Show hide code review**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Sometimes you might need to have a quick look on the changes you have made on your code. Use this shortcut to quickly switch to code review mode and have an overview on what you have changed, once done, just hit the shortcut again to switch back to you normal source editor mode.
  ```sh
 (Shift + Option + Cmd + Enter) ************************* (⇧ + ⌥ + ⌘ + ↩)
 ```
 ![Tip24](https://user-images.githubusercontent.com/89680122/166873213-873a5172-eec3-4a5e-81c1-9b7d7122878e.gif)
 
-**20. Commit Changes**<br>
+**21. Commit Changes**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we are working with Git, bitbucket, or any source control tool we can directly commit over changes using.
  ```sh
 (Option + Cmd + C) ************************* (⌥ + ⌘ + C)
@@ -155,14 +164,14 @@
 ![Tip11](https://user-images.githubusercontent.com/89680122/164149125-dad3acb9-f013-452e-9e53-44c87900f381.gif)
 
 
-**21. Reveal in Projet Navigator**<br>
+**22. Reveal in Projet Navigator**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reveal file in projet navigator using.
  ```sh
 (Shift + Cmd + J) ************************* (⇧ + ⌘ + J)
 ```
 ![Tip13](https://user-images.githubusercontent.com/89680122/164623828-404e50fd-495b-488f-9571-e1c2fb74323b.gif)
 
-**22. Open Preferences**<br>
+**23. Open Preferences**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Open your Xcode preferences to easily access your apple account, set up your Xcode preference, access the derived data path, and many more using.
  ```sh
 (Cmd + Comma(,)) ************************* (⌘ + ,)
@@ -170,7 +179,7 @@
 ![Tip14](https://user-images.githubusercontent.com/89680122/164884177-a0dd672e-1bec-4ef0-92c6-713fd39e728b.gif)
 
 
-**23. Split curent file**<br>
+**24. Split curent file**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you want to split your current file within the same tab you can do using.
  ```sh
 (Option + Cmd + ,) ************************* (⌥ + ⌘ + ,)
@@ -178,14 +187,14 @@
 ![Tip20](https://user-images.githubusercontent.com/89680122/165891511-282c0cd0-a790-4a54-9fd0-348e01213cb9.gif)
 
 
-**24. Create a new group**<br>
+**25. Create a new group**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Select your folder then use the shortcut to create a group. At a time a single group will be created.
  ```sh
 (Ctl + Option + Cmd + N) ************************* (⌃ + ⌥ + ⌘ + N)
 ```
 ![Tip15](https://user-images.githubusercontent.com/89680122/164884466-e0c709dd-7e14-41e8-a6cf-58aa54905187.gif)
 
-**25. Left panel (navigator) tab switch**<br>
+**26. Left panel (navigator) tab switch**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigator from Project navigators to Report navigator using.
  ```sh
 (Cmd + (1-9)) ************************* (⌘ + (1-9))
@@ -193,7 +202,7 @@
 ![Tip25](https://user-images.githubusercontent.com/89680122/167106717-9edf2c71-084d-47af-b080-563a84b90e8a.gif)
 
 
-**26. Hide left panel (navigator)**<br>
+**27. Hide left panel (navigator)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hide the navigator using.
  ```sh
 (Cmd + 0) ************************* (⌘ + 0)
@@ -201,7 +210,7 @@
 ![Tip28](https://user-images.githubusercontent.com/89680122/168214940-7cb36c41-986a-4495-9f4a-e5e4aeda98c1.gif)
 
 
-**27. Right panel (inspector) tab switch**<br>
+**28. Right panel (inspector) tab switch**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Switch between the different navigators from File inspector to Connection inspector using.
  ```sh
 (Option + Cmd + (1-7)) ************************* (⌥ + ⌘ + (1-7))
@@ -209,7 +218,7 @@
 ![Tip27](https://user-images.githubusercontent.com/89680122/167995710-23409660-5a60-4d63-99db-e806ce9c1ce5.gif)
 
 
-**28. Hide right panel (inspector)**<br>
+**29. Hide right panel (inspector)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hide the inspector using.
  ```sh
 (Option + Cmd + 0) ************************* (⌥ + ⌘ + 0)
@@ -218,14 +227,14 @@
 
 
 
-**29. Search for lines of text in your files (project)**<br>
+**30. Search for lines of text in your files (project)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Search your text with multi kinds of filters like Containing, Matching word, Starting with or Ending with using.
  ```sh
 (Cmd + Shift + F) ************************* (⌘ + ⇧ + F)
 ```
 ![Tip26](https://user-images.githubusercontent.com/89680122/167771493-bd74e649-b8c2-4135-9e89-8bf479fad0ba.gif)
 
-**30. Open schema selection**<br>
+**31. Open schema selection**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you are required to switch between the schema (Control + 0) open the scheme chooser. Select the scheme you want to run with the arrow keys and simply hit the return key to choose the schema.
  ```sh
 (Ctl + 0) ************************* (⌃ + 0)
