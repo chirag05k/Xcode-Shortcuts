@@ -36,7 +36,7 @@
 ```
 ![Tip19](https://user-images.githubusercontent.com/89680122/165685411-5705bd78-dddc-46ed-9bd2-0e1ca72fc2fe.gif)
 
-**6. Refactor All In Scope**<br>
+**6. Edit / Refactor All In Scope**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Refactoring is inevitable. That makes editing variables and methods in the scope a crucial tool. The following shortcut lets us edit all in scope together at the same time.
  ```sh
 (Ctrl + Cmd + E) ************************* (⌃ + ⌘ + E)
@@ -81,13 +81,19 @@
 ```
 ![Tip21](https://user-images.githubusercontent.com/89680122/166185352-1faaf199-e68b-4754-8651-3d21b67222a8.gif)
 
-
 **12. Add and Remove Breakpoints**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Add and Remove breakpoints.
  ```sh
 (Cmd + \) ************************* (⌘ + \)
 ```
 ![Tip5](https://user-images.githubusercontent.com/89680122/162667430-83d1c371-2701-4070-a76a-fbc495215af7.gif)
+
+**12. Move Line / Selected text Up**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  We might find ourselves doing a bit of reordering in the file. One way to do it could be doing the old and trusted cut-paste technique 😁. However, if all we want is to move the code one line up or selected text then this shortcut will help.
+ ```sh
+(Option + Cmd + [) ************************* (⌥ + ⌘ + [)
+```
+![Tip35](https://user-images.githubusercontent.com/89680122/169745828-928f28d9-7988-4f39-8d92-d9dfcbc9bd1b.gif)
 
 **13. Disable/Enable all breakpoints**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When you want to enable or disable the breakpoints throughout the Xcode workspace you can do it using.
