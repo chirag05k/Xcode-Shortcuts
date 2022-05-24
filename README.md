@@ -1,4 +1,15 @@
-# Xcode-Shortcuts
+<div align="center"> 
+ 
+<h1 align="center">Xcode-Shortcuts</h1>
+
+ [![Twitter][twitter-shield]][twitter-url] 
+[![Donate][coffee-shield]][coffee-url] 
+
+</div>
+
+---
+<br>
+
 
 **1. Add Documentation To Your Code**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Put cursor on name or method and press
@@ -288,3 +299,10 @@ If you have any feedback, please reach out to me at chirag05k@gmail.com
 <a href="https://www.buymeacoffee.com/chirag05k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 #Xcode #iOS #Swift 
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[twitter-shield]: https://img.shields.io/badge/Twitter-Chirag05k-blueviolet?style=for-the-badge
+[twitter-url]: https://twitter.com/Chirag05k
+[coffee-shield]: https://img.shields.io/badge/coffee-buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=buymeacoffee
+[coffee-url]: https://www.buymeacoffee.com/chirag05k
