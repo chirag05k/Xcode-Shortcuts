@@ -324,6 +324,15 @@
 ![Tip30](https://user-images.githubusercontent.com/89680122/168756708-7a924e47-1845-4265-bf1e-66b471e55be1.gif)
 
 
+**40. Fold methods or class**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we have big projects or in case the file is huge with our code like extension or methods at that time we can fold code using this shortcut.
+ ```sh
+(Shift + Option + Cmd + ←) ************************* (⇧ + ⌥ + ⌘ + ←)
+```
+![Tip40](https://user-images.githubusercontent.com/89680122/170989678-c2027e28-f54f-4370-b721-635d11f76594.gif)
+
+
+
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
 
