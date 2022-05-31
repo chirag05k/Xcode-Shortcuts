@@ -332,6 +332,15 @@
 ![Tip40](https://user-images.githubusercontent.com/89680122/170989678-c2027e28-f54f-4370-b721-635d11f76594.gif)
 
 
+**41. Unfold methods or class**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - When we have big projects or in case the file is huge with our code like extension or methods at that time we can Unfold code using this shortcut.
+ ```sh
+(Shift + Option + Cmd + →) ************************* (⇧ + ⌥ + ⌘ + →)
+```
+![Tip41](https://user-images.githubusercontent.com/89680122/171130298-16d077a3-d454-4ccc-86c0-359ee626557c.gif)
+
+
+
 
 ## Feedback
 If you have any feedback, please reach out to me at chirag05k@gmail.com
