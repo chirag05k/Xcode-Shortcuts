@@ -1,4 +1,4 @@
-## Xcode-Shortcuts  (Basic -> Advance)
+## Xcode-Shortcuts
 
 <div align="center"> 
 
