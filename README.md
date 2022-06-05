@@ -1,4 +1,4 @@
-## Xcode-Shortcuts
+## Xcode-Shortcuts  (Basic -> Advance)
 
 <div align="center"> 
 
@@ -339,6 +339,13 @@
 ```
 ![Tip41](https://user-images.githubusercontent.com/89680122/171130298-16d077a3-d454-4ccc-86c0-359ee626557c.gif)
 
+
+**42. Clean the project**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Occasionally Xcode gets frozen or something in our app becomes unresponsive or unpredictable. When that happens you first want to clean and then re-run the Xcode project which you can do using this shortcut. (FYI, You should not have to do this too often, since It will make building your app slower. It removes all the intermediary files and recreates them which takes more time to complete.)
+ ```sh
+(Command + Shift + K) ************************* (⌘ + ⇧ + K)
+```
+![Tip42](https://user-images.githubusercontent.com/89680122/172038549-d7f14b1f-d97d-47de-b103-63e2beb79cd6.gif)
 
 
 
