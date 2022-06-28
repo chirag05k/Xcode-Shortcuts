@@ -34,6 +34,11 @@
 ```
 ![Tip22](https://user-images.githubusercontent.com/89680122/166406093-b65eed35-0ca1-4016-9c4b-d3a9a7dca721.gif)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - As an alternative you can also start with (Shift + Cmd + o) and to open a destination file in the new or exisiting editor use this shorcut.
+
+```sh
+(Shift + Option + Enter) ************************* (⇧ + ⌥ + ↩)
+```
 
 **4. Generate memberwise initializer**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Xcode has a lesser-known refactoring feature that generates an initialization code for you: Use (⌥ + ⌘ + Click) on a class or struct > Generate Memberwise Initializer.
