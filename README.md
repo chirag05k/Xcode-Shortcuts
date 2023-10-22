@@ -361,7 +361,7 @@
 If you have any feedback, please reach out to me at chirag05k@gmail.com
 
 
-<a href="https://www.buymeacoffee.com/chirag05k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<!-- <!a href="https://www.buymeacoffee.com/chirag05k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
 
 #Xcode #iOS #Swift 
 
